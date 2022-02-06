@@ -1,0 +1,3 @@
+C:/Users/Giacanels/Desktop/Universita/COMPUTER GRAPHICS/Homework 3/giacanelli_chiara_1801145/apps/yscenegen/out/build/x64-Debug (impostazione predefinita)/CMakeFiles/yscenegen.dir
+C:/Users/Giacanels/Desktop/Universita/COMPUTER GRAPHICS/Homework 3/giacanelli_chiara_1801145/apps/yscenegen/out/build/x64-Debug (impostazione predefinita)/CMakeFiles/edit_cache.dir
+C:/Users/Giacanels/Desktop/Universita/COMPUTER GRAPHICS/Homework 3/giacanelli_chiara_1801145/apps/yscenegen/out/build/x64-Debug (impostazione predefinita)/CMakeFiles/rebuild_cache.dir
