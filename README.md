@@ -5,6 +5,7 @@ All the code is written in C++ and using the Yocto/GL library (more information 
 The following are a preview of the results achieved in these projects. 
 
 ![toa_heftiba_people_05](https://user-images.githubusercontent.com/77294126/152686341-b74f605f-52a8-4864-bad8-b20ce5846ab5.jpg)
+
 ![12_ecosys_720_256](https://user-images.githubusercontent.com/77294126/152686560-7dd1b682-960e-4ea0-8c74-20962397696a.jpg)
 
 ![snow_shader](https://user-images.githubusercontent.com/77294126/152686478-34c61d81-763f-4105-97f5-8c0a4a1eee59.jpg)
